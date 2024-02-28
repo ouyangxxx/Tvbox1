@@ -16,7 +16,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt","name":"c120487_00tvx0"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/vip.json","name":"c120487_vip"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ICU2Vmile/TVbox/main/configav2.json","name":"ICU2Vmile_configav2"},
-{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/18.json","name":"xianyuyimu_18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xibao999/x/main/dxwoai18.json","name":"xibao999_dxwoai18"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xibao999/x/main/adult1.json","name":"xibao999_adult1"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fuli.json","name":"tvbox-line_fuli"},
@@ -272,8 +271,9 @@
 {"url":"https://raw.githubusercontent.com/yescopys/box/main/ah/ah.json","name":"ah(Github)"},
 {"url":"https://raw.githubusercontent.com/yescopys/box/main/19-1/19-1.json","name":"19-1(Github)"},
 {"url":"https://raw.githubusercontent.com/yescopys/box/main/bocai/bocai.json","name":"bocai(Github)"},
-{"url":"https://www.qiqiguai.cn/tv/fl/8/index.txt","name":"地瓜妹妹🎯福利1🎯"},
-{"url":"https://www.qiqiguai.cn/tv/fl/9/index.txt","name":"地瓜妹妹🎯福利2🎯"},
+{"url":"https://www.qiqiguai.cn/tv/fl/8/index.txt","name":"地瓜妹妹🍠福利1🍠"},
+{"url":"https://www.qiqiguai.cn/tv/fl/9/index.txt","name":"地瓜妹妹🍠福利2🍠"},
+{"url":"https://www.qiqiguai.cn/tv/fl/7/api.json","name":"地瓜妹妹🍠福利3🍠"},
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt","name":"huyuan_1665283016"},
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1667621493.txt","name":"shuyuan_1667621493"},
 {"url":"http://shuyuan.miaogongzi.net/shuyuan/1666225624.txt","name":"shuyuan_1666225624"},
@@ -439,6 +439,9 @@
 {"url":"https://agit.ai/abc132/tt/raw/branch/master/tb.txt","name":"abc132_tb"},
 
 
+
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/huaxiong96/TVBOX/master/单仓/特制仓.txt
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json","name": "你懂2"},
 
 
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/hfr1107/up/main/json/lugefuli.txt
